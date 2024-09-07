@@ -41,7 +41,6 @@ else:
 
 
 
-# LOOPS
 
 # For loop
 for fruit in fruits:
@@ -55,7 +54,6 @@ while count < 5:
 
 
 
-# FUNCTIONS
 
 # Function definition
 def greet(name):
